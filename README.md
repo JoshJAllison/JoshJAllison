@@ -28,6 +28,7 @@ A 3rd-year Software Engineering student focused on developing secure, efficient,
 
 ### Security
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/NoxaCSIT.png?refresh=1)](https://tryhackme.com/p/NoxaCSIT)\
 ![Nmap](https://img.shields.io/badge/Nmap-005C84?style=for-the-badge&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F05A28?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
