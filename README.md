@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaalison)
 
-A 3rd-year Software Engineering student focused on developing secure, efficient, and scalable systems. My areas of interest include cybersecurity, AI integration, and backend development. Outside of my studies, I enjoy hiking, competitive gaming, and reading.
+A 3rd-year Software Engineering student focused on developing secure, efficient, and scalable systems. My areas of interest include full-stack software engineering, cybersecurity, and AI integration. Outside of my studies, I enjoy hiking, competitive gaming, and reading.
 </div>
 
 # 💻 Tech Stack
